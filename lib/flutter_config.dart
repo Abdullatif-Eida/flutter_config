@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 
+///
 /// Flutter config writes environment variables to `BuildConfig` class for android
 /// and as a `NSDictionary` for iOS
 class FlutterConfig {
