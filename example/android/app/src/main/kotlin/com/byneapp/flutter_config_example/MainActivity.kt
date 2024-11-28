@@ -1,4 +1,4 @@
-package com.byneapp.flutter_config_example
+package com.wecourts.mobile_example
 
 import android.os.Bundle
 

@@ -19,7 +19,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.byneapp.flutter_config
+        package: com.wecourts.mobile
         pluginClass: FlutterConfigPlugin
       ios:
         pluginClass: FlutterConfigPlugin

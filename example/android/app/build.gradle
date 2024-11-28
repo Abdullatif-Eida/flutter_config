@@ -43,7 +43,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.byneapp.flutter_config_example"
+        applicationId "com.wecourts.mobile_example"
         minSdkVersion 16
         targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
@@ -75,7 +75,7 @@ android {
     lint {
         disable 'InvalidPackage'
     }
-    namespace 'com.byneapp.flutter_config_example'
+    namespace 'com.wecourts.mobile_example'
 }
 
 flutter {

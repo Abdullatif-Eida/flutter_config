@@ -1,4 +1,4 @@
-package com.byneapp.flutter_config
+package com.wecourts.mobile
 
 import android.app.Activity
 import android.content.Context
